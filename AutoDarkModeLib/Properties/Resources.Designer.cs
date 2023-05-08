@@ -3315,6 +3315,15 @@ namespace AutoDarkModeLib.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Choose your lockscreen wallpaper.
+        /// </summary>
+        public static string WallpaperTextBlockChooseLockScreenWallpaper {
+            get {
+                return ResourceManager.GetString("WallpaperTextBlockChooseLockScreenWallpaper", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Choose your wallpaper.
         /// </summary>
         public static string WallpaperTextBlockChooseWallpaper {
